@@ -1,0 +1,6 @@
+name: SkyUHC
+version: 1.0
+author: TrophaigleMC
+main: fr.lasercraft.SkyUHC
+commands:
+  start:
